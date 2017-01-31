@@ -148,7 +148,7 @@ public class StabelADTTest {
      * enn stabeltabellen har plass til, sjekker om antallet er riktig,
      * tar ut og sjekker første element, tar ut de i "midten",
      * tar ut og sjekker det siste elementet og sjekker til slutt
-     * at køen er tom slik det forventes.
+     * at stabel er tom slik det forventes.
      */
 	
     @Test
